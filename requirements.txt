@@ -1,0 +1,4 @@
+ccxt==4.4.75
+aiodns==3.2.0
+telegram==0.0.1
+python-telegram-bot==22.0
